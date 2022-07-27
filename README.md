@@ -11,7 +11,7 @@ Perceba que ao extrairmos o Json as informações que receberemos estarão um ta
 ## 2º Etapa iremos organizar as informações recebidas do Json, puxar o nome do filme, ano de lançamento nota do filme e classifica-lo com estrelinhas personalizadas.
 ![Projeto realizado ufa](https://user-images.githubusercontent.com/107453279/181144179-cd590c30-2ffe-43cd-bae4-e2a72bae442f.png)
 
-Perceba que agora ficou tudo mais claro conseguimos ver a nota do filme as estrelinhas, temos ate um link para clicarmos e irmos na foto de capa do filme.Ah alem disso foi possivel pegar as informações do imdb e gerar stickers para serem enviados pelo whatsaap como uma indicação de filme.
+Perceba que agora ficou tudo mais claro conseguimos ver o nome a nota do filme e a classificação com as estrelinhas, temos ate um link para clicarmos e irmos na foto de capa do filme.Ah alem disso foi possivel pegar as informações do imdb e gerar stickers para serem enviados pelo whatsaap como uma indicação de filme.
 
 ## 3º Etapa Gerando Stickers para o Whatsaap
 ![Stickers](https://user-images.githubusercontent.com/107453279/181144779-66c0015e-8641-4a4a-ac5e-40fdb5315ca6.png)
